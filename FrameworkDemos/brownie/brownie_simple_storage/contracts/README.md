@@ -1,0 +1,1 @@
+Type `brownie compile` in terminal to compile contracts.

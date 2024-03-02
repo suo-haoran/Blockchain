@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "es2018",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "outDir": "dist",
+        "declaration": true
+    },
+    // Add ./deploy folder and ./hardhat.config.ts if you use hardhat-deploy
+    "include": ["./scripts", "./test", "./typechain", "./deploy"],
+    "files": ["./hardhat.config.ts", "./helper-hardhat-config.ts"]
+}

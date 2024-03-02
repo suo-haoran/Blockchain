@@ -1,0 +1,1 @@
+We can download boilerplate code from [brownie-mixes](https://github.com/orgs/brownie-mix/repositories) or using `brownie bake` e.g. `brownie bake chainlink-mix`.
